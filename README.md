@@ -1,4 +1,4 @@
-# macOS Shortcuts (unmaintained)
+# macOS Shortcuts 
 
 It is a global shortcuts App for macOS, written in Swift and SwiftUI.
 
